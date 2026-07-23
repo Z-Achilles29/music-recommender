@@ -1,4 +1,5 @@
 **# Music Recommendation System**
+![HOME page](music_recomendation.png)
 
 A machine learning project that recommends songs based on their similarity to user-selected tracks. Built using Python, Pandas, and Scikit-Learn, the system analyzes song features and generates personalized music recommendations.
 
